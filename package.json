@@ -1,0 +1,13 @@
+{
+  "name": "insomnia-plugin-firebase-authentication",
+  "version": "0.0.1",
+  "license": "MIT",
+  "insomnia": {
+    "name": "firebase-authentication",
+    "description": ""
+  },
+  "main": "main.js",
+  "dependencies": {
+    "firebase": "^9.8.4"
+  }
+}
